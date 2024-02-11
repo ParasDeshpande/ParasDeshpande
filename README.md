@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ParasDeshpande
-- 👀🔭 I’m currently working on a various project as part of my engineering studies. It involves developing algorithms and techniques  using AI and machine learning and many basic concepts from software development including web technology
+👋 Hi, I’m @ParasDeshpande
+🔭 I’m currently working on a various project as part of my engineering studies. It involves developing algorithms and techniques  using AI and machine learning and many basic concepts from software development including web technology
 
 🌱 I’m currently learning and focusing on expanding my knowledge and skills in AI, machine learning. I am keeping up with the latest research papers, exploring new algorithms, and experimenting with different frameworks and tools.
 
