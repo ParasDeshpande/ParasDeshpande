@@ -1,5 +1,5 @@
 👋 Hi, I’m **@ParasDeshpande**  
-🎓 Final-year AI & ML engineering student | Aspiring Buisness Analyst & Tech Strategist  
+🎓 Final-year AI & ML engineering student | Aspiring to build a career in New emerging technologies   
 🔍 Passionate about AI, machine learning, and turning data into actionable insights  
 🛠️ Working on projects involving AI automation, EDA exploratory data analysis
 🌱 Constantly learning through hands-on projects, research papers, and new tech tools  
